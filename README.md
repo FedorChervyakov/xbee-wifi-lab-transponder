@@ -1,9 +1,9 @@
 # Xbee Wi-Fi Lab Transponder
 
-This is a LabVIEW project which uses XBee Wi-Fi module (S6B) connect though a serial port.
+This is a LabVIEW project which uses XBee Wi-Fi module (S6B) connected through a serial port.
 It is intended to be used in the following scenario: students are tasked with developing
 a LabVIEW application that uses a XBee Wi-Fi module to send a message to a teacher and receive
-another message from the teacher. This project is the teacher's part of the exercise.
+a response from the teacher. This project is the teacher's part of the exercise.
 
 
 ## Description
