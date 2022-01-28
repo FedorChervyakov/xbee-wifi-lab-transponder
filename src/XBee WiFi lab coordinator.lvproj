@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="17008000">
+<Project Type="Project" LVVersion="21008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -71,6 +71,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{29D3B66C-1F82-4C24-BF9C-7FCD2D1A1DB7}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{673B953D-3927-4F00-BB6B-364B2DF90C6B}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B98E4EEE-4525-46F6-A2CA-13C6DB32521A}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">XBee WiFi API responder</Property>
@@ -81,7 +82,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1118E7EC-737F-48B4-B417-190D78105CDC}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XBee WiFi API responder.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/XBee WiFi API responder/XBee WiFi API responder.exe</Property>
@@ -111,6 +112,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{88C8E3CC-91FD-4000-B899-E6D65C61A89A}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{69B2E78A-5FD4-41A3-92C9-6B121444BB03}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{0AB07499-9ADF-48F7-9D89-8E147803745C}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">XBee WiFi Transparent responder</Property>
@@ -121,7 +123,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CF25BD09-A1EF-46BF-83F7-4B441EF22814}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XBee WiFi Transparent responder.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/XBee WiFi Transparent responder/XBee WiFi Transparent responder.exe</Property>
